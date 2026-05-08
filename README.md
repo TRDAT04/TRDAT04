@@ -30,7 +30,6 @@
   <a href="mailto:tr.thdat04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-
 </div>
 
 <div align="center">
@@ -46,16 +45,22 @@
   <br><br>
  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Spring+Boot+Enthusiast;Building+scalable+web+applications" />
 </div>
+
 ---
 
 ### 📈 GitHub Analytics & Streak
 
 <div align="center">
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TRDAT04&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
-  </a>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TRDAT04&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRDAT04&layout=compact&theme=tokyonight&hide_border=true" />
+
+  <br>
+
+  <img src="https://streak-stats.demolab.com?user=TRDAT04&theme=tokyonight&hide_border=true" />
+
+</div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRDAT04&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
   </a>
