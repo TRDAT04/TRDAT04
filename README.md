@@ -18,7 +18,7 @@
 
 * 🎯 **Current Focus:** Crafting applications with **Spring Boot** and **React**.
 * 📚 **Learning Next:** Mastering **Spring Security, Nodejs** and **DevOps**.
-* 🎮 **Fun Fact:** I debug more than I code 😭
+* ⚡ Passionate about clean architecture and modern web development.
 
 <br>
 
@@ -41,12 +41,27 @@
 ### 🔧 My Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,html,css,js,tailwind,mysql,git,github" />
-  <br><br>
- <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Spring+Boot+Enthusiast;Building+scalable+web+applications" />
+
+  <img src="https://skillicons.dev/icons?i=java,spring,react,vite,js,html,css,tailwind,mysql,docker,linux,git,github,postman" />
+
 </div>
 
 ---
+## 🚀 Featured Projects
+
+### 📱 Ecommerce Phone Store
+Full-stack ecommerce platform with:
+- JWT Authentication
+- Product Variants
+- Admin Dashboard
+- Product Filtering & Sorting
+- Cart & Checkout System
+
+**Tech:** React, Spring Boot, MySQL
+
+🔗 Repo: https://github.com/TRDAT04/ecommerce_phone
+🔗 Demo: 
+
 
 ### 📈 GitHub Analytics & Streak
 
