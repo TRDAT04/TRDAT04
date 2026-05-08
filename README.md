@@ -3,11 +3,11 @@
   <img src="https://img.shields.io/badge/Hello%2C%20TRDAT04-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
 
   <h1>👋 Hi, I'm Trương Đạt</h1>
-  <h3>Full-Stack Developer |  Spring Boot & React</h3>
+  <h3>🚀 Full-Stack Developer | Java & React</h3>
   
   <br>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=TRDAT04&color=F700FF" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=TRDAT04&color=58A6FF" alt="Profile Views" />
   </p>
   
 </div>
@@ -39,36 +39,18 @@
 
 ---
 
-
-
 ### 🔧 My Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,php,ts,html,css,js,bootstrap,tailwind,mysql,github" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,html,css,js,tailwind,mysql,git,github" />
   <br><br>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+ <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Spring+Boot+Enthusiast;Building+scalable+web+applications" />
 </div>
-
----
-
-### 📊 GitHub Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TRDAT04&theme=react-dark&hide_border=true&area=true" />
-</div>
-
 ---
 
 ### 📈 GitHub Analytics & Streak
 
 <div align="center">
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=TRDAT04&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true" />
-  </a>
-  
-  <br>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TRDAT04&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
@@ -77,7 +59,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRDAT04&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
   </a>
-
   <br>
 
 <a href="https://github.com/denvercoder1/github-readme-streak-stats">
@@ -87,12 +68,3 @@
 </div>
 
 ---
-
-### 🐍 Fun Fact: Commit Snake
-<div align="center">
-  <img src="https://github.com/TRDAT04/TRDAT04/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
