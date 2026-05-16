@@ -30,11 +30,12 @@
   <a href="mailto:tr.thdat04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <a href="https://www.facebook.com/dat.37.9" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</div>
+
 
 ---
 
@@ -60,7 +61,7 @@ Full-stack ecommerce platform with:
 **Tech:** React, Spring Boot, MySQL
 
 🔗 Repo: https://github.com/TRDAT04/ecommerce_phone
-🔗 Demo: 
+🔗 Demo: https://ecommerce-phone-one.vercel.app
 
 
 ### 📈 GitHub Analytics & Streak
