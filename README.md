@@ -51,17 +51,43 @@
 ## 🚀 Featured Projects
 
 ### 📱 Ecommerce Phone Store
-Full-stack ecommerce platform with:
-- JWT Authentication
-- Product Variants
-- Admin Dashboard
-- Product Filtering & Sorting
-- Cart & Checkout System
-
-**Tech:** React, Spring Boot, MySQL
-
 🔗 Repo: https://github.com/TRDAT04/ecommerce_phone
 🔗 Demo: https://ecommerce-phone-one.vercel.app
+> **Full-stack E-commerce Platform** – Nền tảng mua sắm điện thoại toàn diện, tích hợp hệ thống quản trị thông minh và bảo mật chuyên sâu.
+
+<div align="left">
+  <a href="https://github.com/TRDAT04/ecommerce_phone" target="_blank">
+    <img src="https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+  </a>
+  <a href="https://ecommerce-phone-one.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-00A3E0?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+</div>
+
+#### 🔐 Hệ thống xác thực & Bảo mật
+* **Mã hóa & Xác thực:** Bảo mật tối đa với **JWT** kết hợp mã hóa mật khẩu bằng **BCrypt**.
+* **Phân quyền (RBAC):** Tách biệt nghiêm ngặt luồng trải nghiệm và quyền hạn giữa **User** và **Admin**.
+
+#### 👥 Phân hệ Người dùng (Client Interface)
+* **Tìm kiếm & Bộ lọc:** Tìm kiếm thông minh và lọc sản phẩm đa tiêu chí *(hãng, giá, cấu hình,...)*.
+* **E-commerce Flow:** Tối ưu hóa quy trình từ *Giỏ hàng*, *Checkout*, đến *Quản lý lịch sử đơn hàng*.
+* **Tương tác:** Hệ thống đánh giá sản phẩm *(Reviews)* trực quan, tăng độ uy tín cho cửa hàng.
+
+#### 📊 Phân hệ Quản trị (Admin Dashboard)
+* **Data Analytics:** Thống kê trực quan doanh thu và tăng trưởng đơn hàng thông qua biểu đồ **Recharts**.
+* **Advanced CRUD:** Quản lý chuyên sâu dữ liệu người dùng, đơn hàng, đánh giá và sản phẩm *(hỗ trợ cấu hình nhiều biến thể như màu sắc, bộ nhớ)*.
+
+#### 🎨 Tối ưu hóa UI/UX & Media
+* **Premium Design:** Giao diện hiện đại, thời thượng ứng dụng hiệu ứng **Glassmorphism**.
+* **Responsive:** Hiển thị mượt mà, tối ưu hoàn toàn trên cả Desktop và Mobile.
+* **Cloud Storage:** Xử lý và lưu trữ hình ảnh linh hoạt, tối ưu băng thông qua **Cloudinary**.
+
+#### 🛠️ Công nghệ sử dụng
+* **Frontend:** `ReactJS` • `Vite` • `React Router DOM` • `Zustand` • `Axios` • `TailwindCSS` • `Recharts`
+* **Backend:** `Java` • `Spring Boot` • `Spring Security (JWT)` • `BCrypt` • `RESTful API` • `JPA/Hibernate`
+* **Database & Storage:** `PostgreSQL` • `Cloudinary`
+
+
 
 
 ### 📈 GitHub Analytics & Streak
