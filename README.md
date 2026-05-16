@@ -51,8 +51,6 @@
 ## 🚀 Featured Projects
 
 ### 📱 Ecommerce Phone Store
-🔗 Repo: https://github.com/TRDAT04/ecommerce_phone
-🔗 Demo: https://ecommerce-phone-one.vercel.app
 > **Full-stack E-commerce Platform** – Nền tảng mua sắm điện thoại toàn diện, tích hợp hệ thống quản trị thông minh và bảo mật chuyên sâu.
 
 <div align="left">
