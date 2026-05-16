@@ -43,7 +43,7 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=java,spring,react,vite,js,html,css,tailwind,,postgresql,mysql,docker,linux,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,vite,js,html,css,tailwind,postgresql,mysql,docker,linux,git,github,postman" />
 
 </div>
 
