@@ -58,7 +58,7 @@
     <img src="https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
   </a>
   <a href="https://ecommerce-phone-one.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-00A3E0?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+    <img src="https://img.shields.io/badge/Live_Demo-00A3E0?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Deploy"/>
   </a>
 </div>
 
